@@ -5,12 +5,11 @@
 // BACKEND ENGINEER  ·  API DESIGN  ·  AI-ENHANCED WORKFLOWS
 ```
 
-
 # Jose Rodriguez-Marrero
 
 **.NET · Systems Architecture · AI-Augmented Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amodelandme-8B2500?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amodelandme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-infraforge--dev-8B2500?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infraforge-dev)
 [![Dev.to](https://img.shields.io/badge/Blog-amodelandme.dev-3a5a3a?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to)
 [![X](https://img.shields.io/badge/X-@amodelandme-2a3a2a?style=flat-square&logo=x&logoColor=white)](https://x.com)
 
@@ -25,7 +24,7 @@ I build tools for developers — not demo apps — and I think hard about what h
 *after* the happy path.
 
 After three years away caring for a family member, I'm back — sharper on fundamentals,
-genuinely fluent in AI tooling, and building in public at **[amodelandme.dev](https://amodelandme.dev)** (coming soon).
+genuinely fluent in AI tooling, and building in public at **[amodelandme.dev](https://amodelandme.dev)**.
 
 > *The name? It's me and the model — pair-programming at the intersection of craft and AI.*
 
@@ -73,9 +72,30 @@ AI Tooling   Claude  ·  Prompt Engineering  ·  AI-Augmented Dev Workflows
 
 ## `> projects`
 
-> ⚙️ *Building something worth showing. Check back soon — or watch the blog.*
+### `FeatureFlagService` — *in active development*
+> Azure-native. .NET-first. AI-assisted feature flag management.
 
-<!-- Projects will be pinned here as they ship -->
+🔗 *[Feature Flag Service Repository](https://github.com/amodelandme/FeatureFlagService)*
+
+A developer tooling project built to serve mid-market engineering teams running **.NET on Azure** —
+the teams that find LaunchDarkly expensive and Unleash under-supported.
+
+```
+Stack        .NET 8  ·  ASP.NET Core  ·  Azure (Key Vault · App Insights · Container Apps)
+AI Layer     Azure OpenAI — natural language flag health analysis · stale flag detection
+SDK          Production .NET SDK ships alongside the service
+Model        Open core · MIT licensed · self-hostable
+```
+
+**What makes it different:**
+- Azure-native from Phase 1 — not bolted on later
+- AI-assisted flag management: ask *"which of my flags need attention?"* and get a real answer
+- ASP.NET Core teams are productive in under 15 minutes
+
+**The demo that validates it:** Clone the repo → `docker compose up` → working flag service
+with .NET SDK and AI analysis. Under 15 minutes, no account required.
+
+
 
 ---
 
