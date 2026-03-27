@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-```
-// BACKEND ENGINEER  ·  API DESIGN  ·  AI-ENHANCED WORKFLOWS
-```
+
+*// BACKEND ENGINEER  ·  API DESIGN  ·  AI-ENHANCED WORKFLOWS*
+
 
 # Jose Rodriguez-Marrero
 
@@ -110,10 +110,8 @@ with .NET SDK and AI analysis. Under 15 minutes, no account required.
 ## `> connect`
 
 ```
-Blog     →  amodelandme.dev
-LinkedIn →  linkedin.com/in/infraforge-dev
-X        →  @amodelandme (coming soon)
-Email    →  jose@amodelandme.dev
+LinkedIn →  linkedin.com/in/amodelandme
+Email    →  jose.rodriguez76@protonmail.com
 ```
 
 ---
