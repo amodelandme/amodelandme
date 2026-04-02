@@ -24,7 +24,7 @@ I build tools for developers — not demo apps — and I think hard about what h
 *after* the happy path.
 
 After three years away caring for a family member, I'm back — sharper on fundamentals,
-genuinely fluent in AI tooling, and building in public at **[amodelandme.dev](https://amodelandme.dev)**.
+genuinely fluent in AI tooling, and building in public at **[amodelandme.dev](https://amodelandme.dev) COMING SOON!**.
 
 > *The name? It's me and the model — pair-programming at the intersection of craft and AI.*
 
@@ -111,7 +111,7 @@ with .NET SDK and AI analysis. Under 15 minutes, no account required.
 
 ```
 LinkedIn →  linkedin.com/in/amodelandme
-Email    →  jose.rodriguez76@protonmail.com
+Email    →  contact@amodelandme.dev
 ```
 
 ---
