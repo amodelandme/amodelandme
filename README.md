@@ -1,17 +1,18 @@
 <!-- Header -->
+
 <div align="center">
 
-
-*// BACKEND ENGINEER  ·  API DESIGN  ·  AI-ENHANCED WORKFLOWS*
-
+*// BACKEND ENGINEER · API DESIGN · SYSTEMS THINKING · AI IN THE SERVICE OF DISCIPLINED ENGINEERING*
 
 # Jose Rodriguez-Marrero
 
-**.NET · Systems Architecture · AI-Augmented Development**
+**.NET · Systems Architecture · Spec-Driven Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amodelandme.dev-8B2500?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amodelandme)
-[![Dev.to](https://img.shields.io/badge/Blog-dev.to/amodelandme-3a5a3a?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/amodelandme)
-[![X](https://img.shields.io/badge/X-@amodelandme-2a3a2a?style=flat-square&logo=x&logoColor=white)](https://x.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amodelandme-8B2500?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amodelandme)
+[![Dev.to](https://img.shields.io/badge/Blog-dev.to/amodelandme-3a5a3a?style=flat-square\&logo=dev.to\&logoColor=white)](https://dev.to/amodelandme)
+[![X](https://img.shields.io/badge/X-@amodelandme-2a3a2a?style=flat-square\&logo=x\&logoColor=white)](https://x.com)
+
+**<span><h2>AI in the service of disciplined engineering</h2></span>**
 
 </div>
 
@@ -19,90 +20,116 @@
 
 ## `> whoami`
 
-Backend engineer with a focus on **.NET APIs**, **systems design**, and **AI-enhanced developer workflows**.
-I build tools for developers — not demo apps — and I think hard about what happens
-*after* the happy path.
+Backend-focused engineer working in **.NET APIs**, **systems architecture**, and **AI-augmented development workflows**.
 
-After three years away caring for a family member, I'm back — sharper on fundamentals,
-genuinely fluent in AI tooling, and building in public at **[dev.to/amodelandme](https://dev.to/amodelandme)**.
+I use AI often, but I use it in service of disciplined engineering, not in place of it.
 
-> *The name? It's me and the model — pair-programming at the intersection of craft and AI.*
+My focus is building software that remains clear, maintainable, and dependable after the first demo, after the happy path, and after requirements start changing. I care about sound architecture, clean boundaries, thoughtful specifications, and code that can survive real-world pressure.
+
+I’m especially interested in:
+
+* developer tooling
+* backend system design
+* API architecture
+* spec-driven development
+* AI workflows grounded in engineering judgment
+
+After spending three years away caring for a family member, I’m back with sharper fundamentals, deeper architectural focus, and a stronger sense of the kind of software worth building.
+
+If I don’t understand how a system works, I learn it until I do.
+
+> *amodelandme is exactly what it sounds like: a builder, a model, and a serious respect for the craft.*
 
 ---
 
 ## `> projects`
 
 ### `FeatureFlagService` — *in active development*
+
 > Azure-native. .NET-first. AI-assisted feature flag management.
 
 🔗 *[Feature Flag Service Repository](https://github.com/amodelandme/FeatureFlagService)*
 
-A developer tooling project built to serve mid-market engineering teams running **.NET on Azure** —
-the teams that find LaunchDarkly expensive and Unleash under-supported.
+A developer tooling project for engineering teams running **.NET on Azure** that want a serious feature flag platform without the pricing weight of LaunchDarkly or the rough edges of lighter alternatives.
 
-```
+```text
 Stack        .NET 10  ·  ASP.NET Core  ·  Azure (Key Vault · App Insights · Container Apps)
-AI Layer     Azure OpenAI — natural language flag health analysis · stale flag detection
-SDK          Production .NET SDK ships alongside the service
-Model        Open core · MIT licensed · self-hostable
+AI Layer     Azure OpenAI  ·  natural-language flag health analysis  ·  stale flag detection
+SDK          Production-ready .NET SDK ships alongside the service
+Model        Open core  ·  MIT licensed  ·  self-hostable
 ```
 
 **What makes it different:**
-- Azure-native from Phase 1 — not bolted on later
-- AI-assisted flag management: ask *"which of my flags need attention?"* and get a real answer
-- ASP.NET Core teams are productive in under 15 minutes
 
-**The demo that validates it:** Clone the repo → `docker compose up` → working flag service
-with .NET SDK and AI analysis. Under 15 minutes, no account required.
+* Azure-native from day one
+* Built specifically with .NET teams in mind
+* AI-assisted flag analysis that helps surface operational and cleanup issues
+* Fast local setup with a working service and SDK in minutes
+
+**Validation goal:** clone the repo, run `docker compose up`, and get a usable flag service with the .NET SDK and AI analysis in under 15 minutes.
+
+---
 
 ### `Specwright` — *spec-driven backend development workflow*
-> Design-first. .NET-native. AI-assisted system architecture.
+
+> Design-first. .NET-native. AI-assisted engineering workflow.
 
 🔗 *[Specwright Repository](https://github.com/amodelandme/Specwright)*
 
-A development workflow and tooling kit for engineers who want to move beyond tickets and toward **spec-driven system design**.
+A workflow and tooling kit for backend engineers who want to move beyond ticket-driven implementation and toward **spec-driven system design**.
 
-Built for backend teams working in **.NET environments**, Specwright introduces a structured approach to designing, implementing, and evolving systems using **living documents and AI-assisted roles**.
+Specwright is built around the idea that strong software starts with clarity: clear architecture, clear current-state documentation, clear implementation specs, and clear feedback loops between design and code.
+
+It combines:
+
+* living project documents
+* feature-level specs
+* implementation notes
+* AI-assisted engineering roles
+
+The goal is not to automate judgment away. The goal is to give disciplined engineers a better development loop.
 
 ---
 
 ## `> career --highlights`
 
-**CompuGroup Medical** · Software Developer — Backend/DevOps *(2022–2023)*
-- Built and maintained high-throughput .NET and Node.js APIs for laboratory management products
-- EF Core + schema optimization drove significant query time reductions across PostgreSQL and SQL Server
-- Redesigned CI/CD pipelines via GitHub Actions + Docker + AWS — dramatically faster, more reliable deployments
-- Implemented Redis caching strategies to reduce primary database load
+**CompuGroup Medical** · Software Developer, Backend / DevOps *(2022–2023)*
+
+* Built and maintained high-throughput .NET and Node.js APIs for laboratory management products
+* Improved performance across PostgreSQL and SQL Server through EF Core query tuning and schema optimization
+* Redesigned CI/CD workflows with GitHub Actions, Docker, and AWS to improve deployment speed and reliability
+* Implemented Redis caching strategies that reduced pressure on primary databases
 
 **Ecosystem** · Software Engineer *(2020–2021)*
-- Architected RESTful APIs for iOS and Electron clients, improving data accessibility at scale
-- Performance investigations and targeted refactoring cut load times significantly
-- Automated testing + deployment via GitHub Actions and Selenium
+
+* Architected RESTful APIs supporting iOS and Electron clients
+* Investigated performance bottlenecks and delivered targeted refactors that significantly reduced load times
+* Automated testing and deployment workflows using GitHub Actions and Selenium
 
 ---
 
 ## `> focus --current`
 
 ```diff
-+ Deepening: API design patterns · .NET internals · Systems architecture
-+ Building:  Developer tools (not CRUD demos)
-+ Learning:  AI-augmented workflows · Prompt engineering with Claude
-+ Writing:   amodelandme.dev — building in public, thinking out loud
++ Deepening: API design patterns · .NET internals · systems architecture
++ Building:  developer tools, backend platforms, and durable engineering workflows
++ Exploring: AI-augmented development guided by specs, architecture, and constraints
++ Writing:   dev.to/amodelandme · building in public and thinking through the craft
 ```
 
 ---
 
 ## `> certifications`
 
-- `[active]` eLearnSecurity Certified Junior Penetration Tester (eJPT)
-- `[in progress]` Salesforce Administrator
-- `[in progress]` Salesforce Platform Developer I
+* `[active]` eLearnSecurity Certified Junior Penetration Tester (eJPT)
+* `[in progress]` Salesforce Administrator
+* `[in progress]` Salesforce Platform Developer I
 
 ---
 
 ## `> connect`
 
-```
+```text
 LinkedIn →  linkedin.com/in/amodelandme
 Email    →  contact@amodelandme.dev
 ```
@@ -112,7 +139,7 @@ Email    →  contact@amodelandme.dev
 <div align="center">
 
 ```
-// thinking carefully · building deliberately · shipping honestly
+// design for change · build for reality · use AI deliberately
 ```
 
 </div>
