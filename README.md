@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <p align="center">
-  <<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ddbda4ec-5305-4122-8080-78907929db40" />
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ddbda4ec-5305-4122-8080-78907929db40" />
 </p>
 
 <div align="center">
