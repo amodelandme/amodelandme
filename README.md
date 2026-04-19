@@ -46,11 +46,11 @@ If I don’t understand how a system works, I learn it until I do.
 
 ## `> projects`
 
-### `FeatureFlagService` — *in active development*
+### `Banderas Feature Flag Service` — *in active development*
 
 > Azure-native. .NET-first. AI-assisted feature flag management.
 
-🔗 *[Feature Flag Service Repository](https://github.com/amodelandme/FeatureFlagService)*
+🔗 *[Feature Flag Service Repository](https://github.com/amodelandme/Banderas)*
 
 A developer tooling project for engineering teams running **.NET on Azure** that want a serious feature flag platform without the pricing weight of LaunchDarkly or the rough edges of lighter alternatives.
 
