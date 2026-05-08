@@ -8,7 +8,7 @@
 
 # Jose Rodriguez-Marrero
 
-**.NET · Systems Architecture · Spec-Driven Development**
+**Full-Stack Dev · Systems Design · Spec-Driven Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amodelandme-8B2500?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amodelandme)
 [![Dev.to](https://img.shields.io/badge/Blog-dev.to/amodelandme-3a5a3a?style=flat-square\&logo=dev.to\&logoColor=white)](https://dev.to/amodelandme)
