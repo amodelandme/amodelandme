@@ -1,13 +1,17 @@
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/lockup-horizontal-on-dark.svg">
-    <img src="assets/lockup-horizontal.svg" alt="a model and me" width="480">
+    <img
+      width="256"
+      height="256"
+      alt="Image"
+      src="https://github.com/user-attachments/assets/4f60e7c7-23e1-41ab-adf0-3ac1c4f06a20"
+    />
   </picture>
-</p>
 
-<p align="center">
-  <em>AI in the service of disciplined engineering</em>
-</p>
+  <h2>A Model & Me</h2>
+
+  <p><em>AI in the service of disciplined engineering</em></p>
+</div>
 
 ---
 
