@@ -39,11 +39,21 @@ I care about sound architecture, clean boundaries, thoughtful specifications, an
 
 ## `> projects`
 
+### `Phelix` — .Net-focused, minimal coding harness · *in active development*
+
+> A terminal-based AI coding harness for .NET developers.
+
+🔗 [visit the repo](https://github.com/amodelandme/phelix)
+
+A control system that wraps a language model in a deterministic loop — reading your codebase, writing code, running builds, and feeding compiler results back into the next turn, all from your terminal.
+
+---
+
 ### `Banderas` — Feature Flag Service · *in active development*
 
 > Azure-native. .NET-first. AI-assisted feature flag management.
 
-🔗 [github.com/amodelandme/Banderas](https://github.com/amodelandme/Banderas)
+🔗 [visit the repo](https://github.com/amodelandme/Banderas)
 
 For .NET teams on Azure that want a serious feature flag platform — without LaunchDarkly's pricing or the rough edges of lighter tools.
 
@@ -55,16 +65,6 @@ Model   Open core · MIT licensed · self-hostable
 ```
 
 **Goal:** clone the repo, run `docker compose up`, get a working flag service with .NET SDK and AI analysis in under 15 minutes.
-
----
-
-### `Specwright` — Spec-Driven Development Workflow
-
-> Design-first. .NET-native. AI-assisted engineering workflow.
-
-🔗 [github.com/amodelandme/Specwright](https://github.com/amodelandme/Specwright)
-
-A workflow and tooling kit for backend engineers who want to move beyond ticket-driven implementation toward spec-driven system design — with living project documents, feature-level specs, implementation notes, and AI-assisted engineering roles built into the loop.
 
 ---
 
