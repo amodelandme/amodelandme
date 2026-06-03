@@ -16,9 +16,9 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amodelandme"><img src="https://img.shields.io/badge/LinkedIn-amodelandme-8B2500?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://dev.to/amodelandme"><img src="https://img.shields.io/badge/Blog-dev.to/amodelandme-3a5a3a?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://x.com/amodelandme"><img src="https://img.shields.io/badge/X-@amodelandme-2a3a2a?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/amodelandme"><img src="https://img.shields.io/badge/LinkedIn-amodelandme-999933?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://amodelandme.dev"><img src="https://img.shields.io/badge/Blog-amodelandme-cc6633?style=flat-square&logo=dev.to&logoColor=white" alt="amodelandme.dev"></a>
+  <a href="https://x.com/amodelandme"><img src="https://img.shields.io/badge/X-@amodelandme-987a58?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
